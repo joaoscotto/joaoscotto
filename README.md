@@ -2,7 +2,7 @@
 
 💻 Web Developer at [LeadStation](https://leadstation.com.br/) and Mentor of [@malufell](https://github.com/malufell) <br>
 🏡 Brazilian gaúcho, Based in Blumenau SC <br>
-:dog2: husky lover <3 <br>
+:dog2: Siberian Husky Lover <3 <br>
 😄 YES my name is the portuguese version of John Scott 
 
 ### You can find me on
