@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm João Scotto! <small> 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm João Scotto! 
 
 💻 I'm a Web Developer at [LeadStation](https://leadstation.com.br/) and mentor of @malufell :3 <br>
 :dog2:   I'm husky lover <3 <br>
