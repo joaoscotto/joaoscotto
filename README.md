@@ -7,6 +7,6 @@
 
 ### You can find me on
 
-:construction_worker: [LinkedIn](https://www.linkedin.com/in/joaoscotto/)
-:memo: [Medium](https://medium.com/@scotto)
+:construction_worker: [LinkedIn](https://www.linkedin.com/in/joaoscotto/) <br>
+:memo: [Medium](https://medium.com/@scotto) <br>
 :information_source: [Twitter](https://twitter.com/joaoscotto)
