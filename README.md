@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm João Scotto! 
 
-💻 Web Developer at [blu](https://github.com/Pagnet) and Mentor of [@malufell](https://github.com/malufell) <br>
+💻 Web Developer at [Blu](https://github.com/Pagnet) and Mentor of [@malufell](https://github.com/malufell) <br>
 :dog2: Siberian Husky Lover <3 <br>
 🏡 Brazilian gaúcho, Based in Blumenau SC <br>
 😄 YES my name is the portuguese version of John Scott 
