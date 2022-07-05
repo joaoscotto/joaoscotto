@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm João Scotto! 
+### Hello, I'm João Scotto! 
 
 💻 Web Developer <br>
 :dog2: Siberian Husky Lover <3 <br>
