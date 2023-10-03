@@ -2,7 +2,7 @@
 
 💻 Web Developer <br>
 :dog2: Siberian Husky Lover <3 <br>
-🏡 Brazilian gaúcho, Based in Blumenau SC <br>
+🏡 Brazilian gaúcho, Based in Balneário Gaivota SC <br>
 😄 YES my name is the portuguese version of John Scott 
 
 ### You can find me on
