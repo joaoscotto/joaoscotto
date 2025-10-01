@@ -1,15 +1,11 @@
 ### Hello, I'm João Scotto! 
 
-💻 Web Developer <br>
-:dog2: Siberian Husky Lover <3 <br>
-🏡 Brazilian gaúcho, Based in Balneário Gaivota SC <br>
-😄 YES my name is the portuguese version of John Scott 
+`> Programmer | Dad`
 
 ### You can find me on
 
 :construction_worker: [LinkedIn](https://www.linkedin.com/in/joaoscotto/) <br>
 :memo: [Medium](https://medium.com/@scotto) <br>
-:information_source: [Twitter](https://twitter.com/joaoscotto)
 
 ### Latest Blog Posts
 
